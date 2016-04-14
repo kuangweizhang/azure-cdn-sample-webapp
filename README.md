@@ -6,4 +6,6 @@ The site is deployed here: http://dustydogwebapp.azurewebsites.net/
 This website is used for the demo of Azure CDN in Microsoft Build 2016. The video link is in here: 
 https://channel9.msdn.com/Events/Build/2016/T688
 
+Azue CDN SDK is here: https://www.nuget.org/packages/Microsoft.Azure.Management.Cdn/
+
 4/14/2016
